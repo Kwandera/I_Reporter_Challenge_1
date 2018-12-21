@@ -1,0 +1,44 @@
+body{
+    background:white;
+}
+#admin{
+    text-align: center;
+    padding-top: 40px;
+    text:bold;
+}
+#reports {
+    text-align: center;
+    padding-top: 30px;
+}
+
+table{
+    text-align: center;
+    padding-left: 450px;
+    padding-bottom: 30px;
+}
+hr, td{
+    border: 2px solid red; 
+}
+
+.conditions{
+    background: grey;
+    padding-top:  150px;
+    text-align: center;
+}
+#Flags{
+    text-align: center;
+}
+#submitted{
+    text-align: center;
+
+}
+.current-page{
+    background:white;
+    padding-left: 1000px;
+
+}
+}
+#buttton1:hover{
+    color:red;
+    border: 1px solid #969669;
+}
