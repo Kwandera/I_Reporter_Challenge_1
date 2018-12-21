@@ -1,0 +1,27 @@
+body{
+    background:white;
+}
+#admin{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+}
+#reports {
+    text-align: center;
+    padding-top: 30px;
+}
+
+table{
+    text-align: center;
+    padding-left: 450px;
+    padding-bottom: 30px;
+}
+.conditions{
+    background: grey;
+    padding-top:  150px;
+    text-align: center;
+}
+ th, td{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
