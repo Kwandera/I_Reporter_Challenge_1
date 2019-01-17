@@ -14,7 +14,7 @@ header li{
 }
 .report-form{
     text-align: center;
-    margin-top:100px;
+    margin-top:140px;
     margin-right: 30px; 
 
 }
@@ -31,4 +31,11 @@ footer{
 .button1 a{
     color: black;
 
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.button1{
+    text-align: center;
 }

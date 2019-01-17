@@ -1,0 +1,28 @@
+body{
+    background:grey;
+  
+  }
+  .button{
+    background:grey;
+    padding-top: 30px;
+    text-align: center;
+  }
+  .Input{
+    text-align: center;
+    padding-top: 50px;
+  }
+  .log{
+    text-align: center;
+  }
+  .main header{
+    text-align: center;
+  }
+  .Intro{
+    text-align: center
+    padding-left: 20px;
+  }
+   h2{
+    text-align: center;
+    padding-top: 60px;
+  }
+  

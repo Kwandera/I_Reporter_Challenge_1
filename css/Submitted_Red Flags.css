@@ -6,6 +6,9 @@ body{
     padding-top: 40px;
     text:bold;
 }
+header{padding-bottom: 0px;
+
+}
 #reports {
     text-align: center;
     padding-top: 30px;
@@ -35,10 +38,19 @@ hr, td{
 .current-page{
     background:white;
     padding-left: 1000px;
-
-}
 }
 #buttton1:hover{
     color:red;
     border: 1px solid #969669;
+}
+h1{
+    text-align: center;
+}
+.sign ul{
+    margin-top:-60px;
+    word-spacing: 40px;
+    
+}
+.conditions ul{
+    word-spacing: 120px;
 }
